@@ -3,7 +3,7 @@ Grabs a RegEx string from a large number of documents and ouputs them into a CSV
 
 ## Synopsis
 
-This simple Ruby script will take any files you place in the “input” file, extracts any emails it finds, places them in a new CSV file, and removes the original files. It’s a bit clumsy as it is, and there are some fancy terminal outputs for experience, so feel free to remove and submit a pull request.
+This simple Ruby script will take any files you place in the “input” file, extracts any emails it finds, places them in a new CSV file, and removes the original files. How it works is still a bit clumsy, so feel free to submit a pull request and make it better!
 
 Enjoy!
 
